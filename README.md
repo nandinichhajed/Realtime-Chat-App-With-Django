@@ -1,4 +1,5 @@
 # Realtime-Chat-App-With-Django
+A chat app where you can create chat rooms and users will chat in real-time. You can get all your previous chat records of a perticular room as you enter the room.
 
 ## Tech Used
 
