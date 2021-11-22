@@ -21,7 +21,7 @@ A chat app where you can create chat rooms and users will chat in real-time. You
 git clone https://github.com/nandinichhajed/Realtime-Chat-App-With-Django.git
 ```
 
-**Get project forlder**
+**Get project folder**
 
 ```bash
 cd Realtime-Chat-App-With-Django
